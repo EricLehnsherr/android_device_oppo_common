@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
 import java.util.UUID;
 
@@ -30,7 +30,7 @@ import android.view.InputDevice;
 import android.view.KeyCharacterMap;
 import android.view.KeyEvent;
 
-import com.cyanogenmod.settings.device.utils.Constants;
+import com.config.settings.device.utils.Constants;
 
 public class OclickService extends Service implements OnSharedPreferenceChangeListener {
 

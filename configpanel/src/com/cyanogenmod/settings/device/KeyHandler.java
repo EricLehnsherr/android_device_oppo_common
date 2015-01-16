@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
 import android.app.ActivityManagerNative;
 import android.app.KeyguardManager;

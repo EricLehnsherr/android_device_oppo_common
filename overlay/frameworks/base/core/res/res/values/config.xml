@@ -66,6 +66,6 @@
 
     <!-- Full qualified name of the class that implements
          com.android.internal.os.DeviceKeyHandler interface. -->
-    <string name="config_deviceKeyHandlerClass" translatable="false">com.cyanogenmod.settings.device.KeyHandler</string>
+    <string name="config_deviceKeyHandlerClass" translatable="false">com.config.settings.device.KeyHandler</string>
 
 </resources>

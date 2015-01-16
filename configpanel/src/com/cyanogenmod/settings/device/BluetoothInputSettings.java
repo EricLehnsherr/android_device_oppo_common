@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -25,7 +25,7 @@ import android.preference.PreferenceScreen;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import com.cyanogenmod.settings.device.utils.Constants;
+import com.config.settings.device.utils.Constants;
 
 @SuppressWarnings("deprecation")
 public class BluetoothInputSettings extends PreferenceActivity implements OnPreferenceChangeListener {

@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device.utils;
+package com.config.settings.device.utils;
 
 
 import android.os.Bundle;

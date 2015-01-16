@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
@@ -21,8 +21,8 @@ import android.view.KeyEvent;
 
 import java.io.File;
 
-import com.cyanogenmod.settings.device.utils.Constants;
-import com.cyanogenmod.settings.device.utils.FileUtils;
+import com.config.settings.device.utils.Constants;
+import com.config.settings.device.utils.FileUtils;
 
 public class Startup extends BroadcastReceiver {
     @Override

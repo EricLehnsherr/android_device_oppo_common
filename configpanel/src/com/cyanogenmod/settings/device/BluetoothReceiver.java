@@ -1,4 +1,4 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothDevicePicker;

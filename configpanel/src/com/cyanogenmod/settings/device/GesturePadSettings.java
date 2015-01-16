@@ -1,7 +1,7 @@
-package com.cyanogenmod.settings.device;
+package com.config.settings.device;
 
-import com.cyanogenmod.settings.device.utils.Constants;
-import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
+import com.config.settings.device.utils.Constants;
+import com.config.settings.device.utils.NodePreferenceActivity;
 
 import android.os.Bundle;
 import android.os.IBinder;
